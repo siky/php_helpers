@@ -3,5 +3,12 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+		"php": ">=7.1"	
+	},
+	"autoload": {
+    "psr-4": {
+      "Siky\\PhpHelpers\\": "src"
+    }
+  }
 }
