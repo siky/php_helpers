@@ -1,0 +1,7 @@
+{
+    "name": "siky/php_helper",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
